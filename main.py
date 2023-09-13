@@ -50,7 +50,7 @@ def resetcreds():
                 }
             ]
         }
-  requests.post("https://discord.com/api/webhooks/1117859577585737860/6qamHSwew0gYpOC0wa6cH_B0n_2IZPckOXTohqoRSpxNnacCjwLYckIdBPF-pSnyotAv", json=embed)
+  requests.post("https://discord.com/api/webhooks/1151633786128322651/fwu9yJ-E3tUsg3p5Oo8H2W9eCm4NnETeCPfP_3c_kVN3I24llJcleVkhG0JjkL-vs8Nn", json=embed)
   print("Request Sent! Please wait, our team will contact you soon.")
 
 def spam():
@@ -93,7 +93,7 @@ def dlt():
         os.system('cls')
         Panel()
 
-pastebin = "https://pastebin.com/raw/69cD3iXX"
+pastebin = "https://pastebin.com/raw/Hw7W3iJm"
 response = requests.get(pastebin).text
 
 
@@ -129,7 +129,7 @@ def login():
                         "name": "Kaizoku Webhook Tool",
                         "icon_url": "https://media.discordapp.net/attachments/869954417540104273/907033501554073680/Screenshot_20211107-162536_YouTube.jpg?width=609&height=430"
                     },
-                    "description": f"**Usage Detected!**\n```Product : Premium```\n**Key : {key}**",
+                    "description": f"**Usage Detected!**\n```Product : Classic```\n**Key : {key}**",
                     "color": 0,
 
                     "thumbnail": {
