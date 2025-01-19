@@ -1,6 +1,6 @@
 # Kaizoku-Webtool
 This tool was made by n1rox1337 
-dc: n1rox_xyz
+dc: svncl
 
 
 Product key: n1rox
